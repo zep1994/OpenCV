@@ -9,7 +9,7 @@ def rescaleFrame(frame, scale-0.75):
 
 cv.waitKey(0)
 
-READING VIDEO
+#READING VIDEO
 capture = cv.VideoCapture("Videos/dog.mp4")
 
 while True:
